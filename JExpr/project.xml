@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<project>
+    <name>JExpr</name>
+    <id>jexpr</id>
+    <pomVersion>1.0</pomVersion>
+    <currentVersion>1.0</currentVersion>
+    <organization></organization>
+    <inceptionYear></inceptionYear>
+    <package>com.breitling.jexpr</package>
+    <shortDescription>The JExpr project for expression evaluation.</shortDescription>
+    <repository></repository>
+    <build>
+        <name>JExpr</name>
+        <nagEmailAddress>bob.breitling@gmail.com</nagEmailAddress>
+        <sourceDirectory>src/main/java</sourceDirectory>
+        <unitTestSourceDirectory>src/test/java</unitTestSourceDirectory>
+    </build>
+</project>
